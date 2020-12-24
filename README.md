@@ -1,2 +1,10 @@
 # Open-file-with-database
-Open a file saved in database using python
+Requirement:- Python 3.8, mysql
+
+Contact me:-
+
+Instagram:- @meghalmurkute
+
+Twitter:-@meghalmurkute
+
+Linkedin:- @meghalmurkute
